@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_33_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護医療院　ふくしま【短期入所療養介護（介護医療院）】岡山県岡山市北区清心町3番１８号", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=33B0100021-00&ServiceCd=551&Type=search", "url2": "http://ivorycobra9.sakura.ne.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.9183021, 34.6728394 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　ちとせ【短期入所療養介護（介護医療院）】岡山県岡山市東区西大寺中野498‐1", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=33B0100047-00&ServiceCd=551&Type=search", "url2": "http://hayashi-hsp.com" }, "geometry": { "type": "Point", "coordinates": [ 134.0269463, 34.6558093 ] } },
+{ "type": "Feature", "properties": { "内容": "玉島病院介護医療院【短期入所療養介護（介護医療院）】岡山県倉敷市玉島乙島4030", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=33B0200029-00&ServiceCd=551&Type=search", "url2": "http://tamashimahosp.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.680491, 34.5416241 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院かもの郷【短期入所療養介護（介護医療院）】岡山県津山市加茂町中原６１", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=33B0300027-00&ServiceCd=551&Type=search", "url2": "https://www.jikeikai-net.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 134.052193499999987, 35.1761965 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人社団　菅病院【短期入所療養介護（介護医療院）】岡山県井原市井原町124", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=33B0700010-00&ServiceCd=551&Type=search", "url2": "https://sugahospital.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.46417228227844, 34.596028014283085 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院わたぼうし【短期入所療養介護（介護医療院）】岡山県真庭市本郷1819番地", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=33B3400030-00&ServiceCd=551&Type=search", "url2": "http://www.katsuyama-hp.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.6891228, 35.0847951 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院田尻病院【短期入所療養介護（介護医療院）】明見550番地の1", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=33B3700025-00&ServiceCd=551&Type=search", "url2": "https://www.tajirihp.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.1458796, 35.0158318 ] } }
+]
+}

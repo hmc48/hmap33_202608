@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_33_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設ひかりの里【地域密着型特定施設入居者生活介護（有料老人ホーム）】岡山県倉敷市玉島八島70番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3390201824-00&ServiceCd=361&Type=search", "url2": "http://www.onkochishinkai.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.663627562429895, 34.557304100335273 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　あいわ【地域密着型特定施設入居者生活介護（有料老人ホーム）】岡山県倉敷市西阿知町375", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3390201329-00&ServiceCd=361&Type=search", "url2": "https://www.npo-aiwa.org/" }, "geometry": { "type": "Point", "coordinates": [ 133.735836298811364, 34.595190721729104 ] } },
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設入居者生活介護　グリーンビレッジ瀬戸内【地域密着型特定施設入居者生活介護（有料老人ホーム）】岡山県倉敷市船穂町柳井原２３００－１", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3390201006-00&ServiceCd=361&Type=search", "url2": "http://www.setouchifukushi.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.715816933946257, 34.610576160385953 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設のどか【地域密着型特定施設入居者生活介護（有料老人ホーム）】岡山県津山市神戸２６２－１", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3390300105-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 133.9451262, 35.0571874 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設　蓉厚苑【地域密着型特定施設入居者生活介護（有料老人ホーム）】岡山県津山市加茂町塔中105特定施設蓉厚苑", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3390300147-00&ServiceCd=361&Type=search", "url2": "http://spirits-care.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.053995500000042, 35.1784403 ] } },
+{ "type": "Feature", "properties": { "内容": "サンホームおおだ【地域密着型特定施設入居者生活介護（有料老人ホーム）】岡山県津山市大田８３－５", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3390300113-00&ServiceCd=361&Type=search", "url2": "http://www.nishishita-hp.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.007555799999977, 35.0834945 ] } },
+{ "type": "Feature", "properties": { "内容": "アーバンライフ二階町【地域密着型特定施設入居者生活介護（有料老人ホーム）】岡山県津山市二階町２３－３", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3390300121-00&ServiceCd=361&Type=search", "url2": "http://urban-nice.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.001583066235781, 35.059474228998603 ] } }
+]
+}

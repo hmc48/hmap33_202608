@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_33_地域密着型特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウス　高瀬【地域密着型特定施設入居者生活介護（軽費老人ホーム）】岡山県真庭市中島393番地1高瀬ヒルサイドテラス", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3393400134-00&ServiceCd=362&Type=search", "url2": "http://f-keishinkai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.749366499999951, 35.0723966 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス高瀬Ⅲ【地域密着型特定施設入居者生活介護（軽費老人ホーム）】岡山県真庭市中島380番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3393400316-00&ServiceCd=362&Type=search", "url2": "http：／／f-keishinkai.JP" }, "geometry": { "type": "Point", "coordinates": [ 133.7493623, 35.0724417 ] } }
+]
+}

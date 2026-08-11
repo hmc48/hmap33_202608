@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_33_短期入所療養介護(療養病床を有する病院等）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "かとう内科並木通り診療所【短期入所療養介護(療養病床を有する病院等）】岡山県岡山市南区並木町2丁目27-5", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3310111400-00&ServiceCd=&Type=search", "url2": "www.kato-namiki.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.938939800000071, 34.6101432 ] } },
+{ "type": "Feature", "properties": { "内容": "玉島病院【短期入所療養介護(療養病床を有する病院等）】岡山県倉敷市玉島乙島４０３０", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3310210368-00&ServiceCd=&Type=search", "url2": "http://www.tamashimahosp.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.680468499999961, 34.5416506 ] } },
+{ "type": "Feature", "properties": { "内容": "柴田病院【短期入所療養介護(療養病床を有する病院等）】岡山県倉敷市玉島乙島6108-1", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3310212240-00&ServiceCd=&Type=search", "url2": "http://www.shibata-h.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.6930671, 34.5533024 ] } }
+]
+}

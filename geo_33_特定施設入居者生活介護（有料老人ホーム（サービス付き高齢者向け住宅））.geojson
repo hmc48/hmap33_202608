@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_33_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "麻姑の雅　国富【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岡山県岡山市中区国富792番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3370114526-00&ServiceCd=&Type=search", "url2": "http://maco.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.942835400000035, 34.6661288 ] } },
+{ "type": "Feature", "properties": { "内容": "グリーンハウス【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岡山県倉敷市新田2780-1", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3370208195-00&ServiceCd=&Type=search", "url2": "http://sahall.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.775934199999938, 34.5749504 ] } },
+{ "type": "Feature", "properties": { "内容": "倉敷スイートレジデンス【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】倉敷市中庄3542番1倉敷スイートタウン", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3370206462-00&ServiceCd=&Type=search", "url2": "http://www.sweet-town.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.8037008, 34.6242489 ] } },
+{ "type": "Feature", "properties": { "内容": "グランドガーデン【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岡山県倉敷市南町1-12", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3370208799-00&ServiceCd=&Type=search", "url2": "www.heisei.or.jp/related/grandgarden" }, "geometry": { "type": "Point", "coordinates": [ 133.7670338, 34.5935815 ] } },
+{ "type": "Feature", "properties": { "内容": "PrinceCourt【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岡山県笠岡市神島5666-1", "url": "https://www.kaigokensaku.mhlw.go.jp/33/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3370501003-00&ServiceCd=&Type=search", "url2": "http://www.tenjinkai.org/" }, "geometry": { "type": "Point", "coordinates": [ 133.525277761680428, 34.462566971376297 ] } }
+]
+}
